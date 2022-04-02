@@ -133,5 +133,6 @@ tmp/
 # by me
 example/
 generated/
-!pyocd_v0.32.1/_native__lib.cp38-win_amd64.pyd
+!*.pyd
+!*.pyd
 !打包教程/run.spec
